@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://gifer.com/ru/9nBs" align="center" style="width: 100%" />
+<img src="https://miro.medium.com/max/1400/1*Imt2iaHVmAjVfrSKQbAuKA.jpeg" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Jack, a full-time full-stack freelance developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on  
+- 🔭 I’m currently working as Full Stack developer 
   
 
 - 🌱 I’m currently learning Machine Learning  
