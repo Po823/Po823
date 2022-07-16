@@ -19,7 +19,7 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@jacklee](https://t.me/jacklee)
+- 💬 Telegram : [@jacklee](https://t.me/TopDev0823)
 - 💬 Skype : [live:.cid.3bafe34211fa7ac8](https://join.skype.com/invite/wfWqzX5ZUldC)
 - 📱  Mobile : +1 (518) 261-0468
 - 📝 Email : micoventodev@gmail.com
