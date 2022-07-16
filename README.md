@@ -19,7 +19,7 @@ I have developed many successful sites so far with mentioned skills.
 - 📫 Ask me about anything, I am happy to help
 
 **Connect with me:**
-- 💬 Telegram : [@blackeagle1115](https://t.me/blackeagle1115)
+- 💬 Telegram : [@jacklee](https://t.me/jacklee)
 - 💬 Skype : [live:.cid.3bafe34211fa7ac8](https://join.skype.com/invite/wfWqzX5ZUldC)
 - 📱  Mobile : +1 (518) 261-0468
 - 📝 Email : micoventodev@gmail.com
@@ -59,9 +59,6 @@ I have developed many successful sites so far with mentioned skills.
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
 </table>
-
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=blackeagle0188&show_icons=true&theme=merko&count_private=true" />
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackeagle0188&layout=compact&theme=merko&count_private=true" />
 
 <div>
   <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blackeagle0188.blackeagle0188" />
