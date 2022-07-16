@@ -59,8 +59,3 @@ I have developed many successful sites so far with mentioned skills.
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/docker-13-1175230.png" width="100"></td>
   </tr>
 </table>
-
-<div>
-  <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=blackeagle0188.blackeagle0188" />
-  <img height="150px" />
-</div>
