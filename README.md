@@ -55,7 +55,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Po823&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Po823&layout=compact&langs_count=10&theme=dark"/>
 <!--   <img height="295em"  src="https://activity-graph.herokuapp.com/graph?username=Po823&theme=xcode"/> -->
-   <img alt="dreamlancer's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Po823&bg_color=1c292E&color=a7e729&line=e729c7&point=FFFFFF&hide_border=true" /> 
+
   </a>
 </div>
 
