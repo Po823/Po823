@@ -1,11 +1,5 @@
 
 
-<div align="center">
-  <a href="https://github.com/DripMicro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Po823&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥 𝐒𝐞𝐭</h2>
 <table>
   <tr>
